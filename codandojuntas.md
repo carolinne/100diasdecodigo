@@ -25,3 +25,21 @@
   **Módulo**: JavaScript Ninja (Udemy)
   
   **Aprendizado**: Terminei a ultima questão do desafio 3 e vi as aulas até o desafio 4: truthy e falsy, operador ternário e escopo de função.
+  
+
+*"Explicação" da falta de compromisso. Na segunda e terça (30/07) eu tive uma queda grave na depressão e acabou prejudicando toda a semana =(. Também não consegui roubar aqueles minutinhos do trabalho pra tentar dar uma estudada, pois o manual está me tomando muito tempo e energia.
+Na semana de 05-11/08 eu fiz as primeiras questões do challenge 4 do JSNinja algumas vezes mas não commitei pq eu queria ter feito tudo, mas fiquei empacada em um dos exercícios (o que tem as validações pra adicionar pessoas no carro), o que acabou me desmotivando bastante e causando um enorme nível de procrastinação (infelizmente eu fujo ou enrolo muito quando encontro uma dificuldade). Enfim, vamos dar continuidade nessa bagaça aqui. 
+P.S.: a obrigatoriedade acaba me desmotivando bastante também, mas isso não é desculpa nem justificativa pra nada.*
+
+### Dia 5 - 09/08 e 11/08 (pq eu não tive uma semana boa/produtiva)
+
+ **Módulo**: JavaScript Ninja (Udemy)
+  
+ **Aprendizado**: Comecei o challenge 4 (reforçando funções e chamadas de métodos, valores truthy e falsy), mas empaquei na lógica da questão de adicionar pessoas no carro =(.
+ 
+ 
+### Dia 6 - 13/08 - 16/08 (pq eu não tive uma semana boa/produtiva)
+
+ **Módulo**: JavaScript Ninja (Udemy)
+  
+ **Aprendizado**: Passei a semana toda tentando resolver aquela abençoada questão (de adicionar pessoas no carro) porque eu fiquei focada em usar a quantidade de pessoas pessada pela função, mas eu só precisava ter o número de vagas restantes (eu realmente tive muita dificuldade com aquela parte da lógica). Ou seja, as vezes o problema é tão mais simples e ficamos tentando fazer coisas mirabolantes desnecessariamente. 
