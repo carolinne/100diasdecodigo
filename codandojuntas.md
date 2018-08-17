@@ -42,4 +42,5 @@ P.S.: a obrigatoriedade acaba me desmotivando bastante também, mas isso não é
 
  **Módulo**: JavaScript Ninja (Udemy)
   
- **Aprendizado**: Passei a semana toda tentando resolver aquela abençoada questão (de adicionar pessoas no carro) porque eu fiquei focada em usar a quantidade de pessoas pessada pela função, mas eu só precisava ter o número de vagas restantes (eu realmente tive muita dificuldade com aquela parte da lógica). Ou seja, as vezes o problema é tão mais simples e ficamos tentando fazer coisas mirabolantes desnecessariamente. 
+ **Aprendizado**: Passei a semana toda tentando resolver aquela abençoada questão (de adicionar pessoas no carro) porque eu fiquei focada em usar a quantidade de pessoas pessada pela função, mas eu só precisava ter o número de vagas restantes (eu realmente tive muita dificuldade com aquela parte da lógica). Ou seja, as vezes o problema é tão mais simples e ficamos tentando fazer coisas mirabolantes desnecessariamente.  
+Utilizei o repl.it https://repl.it/@CarolinneMachad/Challenge-04-curso-JavaScript-Ninja pra fazer os exercícios e testar o código e acabei não commitando as coisas aqui poque tava fazendo lá de qualquer forma.
