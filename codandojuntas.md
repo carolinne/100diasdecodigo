@@ -50,6 +50,6 @@ Utilizei o repl.it https://repl.it/@CarolinneMachad/Challenge-04-curso-JavaScrip
 
   **Módulo**: JavaScript Ninja (Udemy)
   
-  **Aprendizado**: Fiz a correção do challenge 4 e comecei as questões do challenge 5. Manipulação de dados do objeto e dentro da função.
+  **Aprendizado**: Fiz a correção do challenge 4 e comecei as questões do challenge 5. Manipulação de dados do objeto e dentro da função. Documentando e testando o código no https://repl.it/@CarolinneMachad/Challenge-05-JSNinja
 
 
