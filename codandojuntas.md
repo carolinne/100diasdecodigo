@@ -45,11 +45,25 @@ P.S.: a obrigatoriedade acaba me desmotivando bastante também, mas isso não é
  **Aprendizado**: Passei a semana toda tentando resolver aquela abençoada questão (de adicionar pessoas no carro) porque eu fiquei focada em usar a quantidade de pessoas pessada pela função, mas eu só precisava ter o número de vagas restantes (eu realmente tive muita dificuldade com aquela parte da lógica). Ou seja, as vezes o problema é tão mais simples e ficamos tentando fazer coisas mirabolantes desnecessariamente.  
 Utilizei o repl.it https://repl.it/@CarolinneMachad/Challenge-04-curso-JavaScript-Ninja pra fazer os exercícios e testar o código e acabei não commitando as coisas aqui poque tava fazendo lá de qualquer forma.
 
-### Dia 7 - 17/08/2018 (sábado)
+### Dia 7 - 17/08/2018 (sexta)
   **Pomodoros**: 3
 
   **Módulo**: JavaScript Ninja (Udemy)
   
   **Aprendizado**: Fiz a correção do challenge 4 e comecei as questões do challenge 5. Manipulação de dados do objeto e dentro da função. Documentando e testando o código no https://repl.it/@CarolinneMachad/Challenge-05-JSNinja
 
+
+### Dia 7 - 18/08/2018 (sábado)
+  **Pomodoros**: N/A
+
+  **Módulo**: JavaScript Ninja (Udemy)
+  
+  **Aprendizado**: Continuei as questões do challenge 5 no https://repl.it/@CarolinneMachad/Challenge-05-JSNinja
+
+### Dia 7 - 19/08/2018 (domingo)
+  **Pomodoros**: N/A
+
+  **Módulo**: JavaScript Ninja (Udemy)
+  
+  **Aprendizado**: Mais algumas questões do challenge 5 no https://repl.it/@CarolinneMachad/Challenge-05-JSNinja. Perdi algum tempo com um erro por falta de atenção: esqueci uma vírgula entre duas propriedades do objeto --' 
 
