@@ -67,3 +67,10 @@ Utilizei o repl.it https://repl.it/@CarolinneMachad/Challenge-04-curso-JavaScrip
   
   **Aprendizado**: Mais algumas questões do challenge 5 no https://repl.it/@CarolinneMachad/Challenge-05-JSNinja. Perdi algum tempo com um erro por falta de atenção: esqueci uma vírgula entre duas propriedades do objeto --' 
 
+
+### Dia 8 - 21/08/2018 (terça)
+  **Pomodoros**: N/A
+
+  **Módulo**: JavaScript Ninja (Udemy)
+  
+  **Aprendizado**: Não consigo resolver o challenge 5, não entendi como ele quer que imprima todos os valores do array: se passando a função x vezes, ou se fazendo um if ou for... Darei continuidade posteriormente
